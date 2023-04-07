@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh78crypto
 - 👀 I’m interested in Java
-- 🌱 I’m currently persuing Master of Computer Applications
+- 🌱 I’m currently pursuing Master of Computer Applications
 - 📫 To reach me you can contact on surabhpingale93@gmail.com 
 
 <!---
